@@ -21,6 +21,7 @@ https://github.com/Let-sLearnCodingTogether/expressjs-si52-2025-2026-tugas-Darre
 https://github.com/Let-sLearnCodingTogether/expressjs-si52-2025-2026-kuis-1-DarrenHansen 
 _____________________________________________________________________________________________
 
+npm create vite@latest
 npm i react-router
 npm install axios
 npm install cors
